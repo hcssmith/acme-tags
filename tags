@@ -1,0 +1,234 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	number	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/hcssmith/Software/surf/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+AccessMicrophone	surf.c	54;"	e	enum:__anon1ca5b3760303	file:
+AccessWebcam	surf.c	55;"	e	enum:__anon1ca5b3760303	file:
+Arg	surf.c	93;"	t	typeref:union:__anon1ca5b376040a	file:
+AtomBook	surf.c	40;"	e	enum:__anon1ca5b3760103	file:
+AtomBookAdd	surf.c	40;"	e	enum:__anon1ca5b3760103	file:
+AtomBookDel	surf.c	40;"	e	enum:__anon1ca5b3760103	file:
+AtomBookList	surf.c	40;"	e	enum:__anon1ca5b3760103	file:
+AtomFind	surf.c	40;"	e	enum:__anon1ca5b3760103	file:
+AtomGo	surf.c	40;"	e	enum:__anon1ca5b3760103	file:
+AtomLast	surf.c	40;"	e	enum:__anon1ca5b3760103	file:
+AtomSearch	surf.c	40;"	e	enum:__anon1ca5b3760103	file:
+AtomUTF8	surf.c	40;"	e	enum:__anon1ca5b3760103	file:
+AtomUri	surf.c	40;"	e	enum:__anon1ca5b3760103	file:
+Button	surf.c	130;"	t	typeref:struct:__anon1ca5b3760708	file:
+CLEANMASK	surf.c	38;"	d	file:
+CaretBrowsing	surf.c	56;"	e	enum:__anon1ca5b3760303	file:
+Certificate	surf.c	57;"	e	enum:__anon1ca5b3760303	file:
+Client	surf.c	100;"	s	file:
+Client	surf.c	114;"	t	typeref:struct:Client	file:
+CookiePolicies	surf.c	58;"	e	enum:__anon1ca5b3760303	file:
+DNSPrefetch	surf.c	61;"	e	enum:__anon1ca5b3760303	file:
+DefaultCharset	surf.c	60;"	e	enum:__anon1ca5b3760303	file:
+DiskCache	surf.c	59;"	e	enum:__anon1ca5b3760303	file:
+Ephemeral	surf.c	62;"	e	enum:__anon1ca5b3760303	file:
+FileURLsCrossAccess	surf.c	63;"	e	enum:__anon1ca5b3760303	file:
+FontSize	surf.c	64;"	e	enum:__anon1ca5b3760303	file:
+FrameFlattening	surf.c	65;"	e	enum:__anon1ca5b3760303	file:
+Geolocation	surf.c	66;"	e	enum:__anon1ca5b3760303	file:
+HideBackground	surf.c	67;"	e	enum:__anon1ca5b3760303	file:
+Inspector	surf.c	68;"	e	enum:__anon1ca5b3760303	file:
+Java	surf.c	69;"	e	enum:__anon1ca5b3760303	file:
+JavaScript	surf.c	70;"	e	enum:__anon1ca5b3760303	file:
+Key	surf.c	121;"	t	typeref:struct:__anon1ca5b3760608	file:
+KioskMode	surf.c	71;"	e	enum:__anon1ca5b3760303	file:
+LENGTH	surf.c	37;"	d	file:
+LoadImages	surf.c	72;"	e	enum:__anon1ca5b3760303	file:
+MediaManualPlay	surf.c	73;"	e	enum:__anon1ca5b3760303	file:
+OnAny	surf.c	50;"	e	enum:__anon1ca5b3760203	file:
+OnBar	surf.c	48;"	e	enum:__anon1ca5b3760203	file:
+OnDoc	surf.c	43;"	e	enum:__anon1ca5b3760203	file:
+OnEdit	surf.c	47;"	e	enum:__anon1ca5b3760203	file:
+OnImg	surf.c	45;"	e	enum:__anon1ca5b3760203	file:
+OnLink	surf.c	44;"	e	enum:__anon1ca5b3760203	file:
+OnMedia	surf.c	46;"	e	enum:__anon1ca5b3760203	file:
+OnSel	surf.c	49;"	e	enum:__anon1ca5b3760203	file:
+ParamName	surf.c	87;"	t	typeref:enum:__anon1ca5b3760303	file:
+Parameter	surf.c	98;"	t	typeref:struct:__anon1ca5b3760508	file:
+ParameterLast	surf.c	86;"	e	enum:__anon1ca5b3760303	file:
+PreferredLanguages	surf.c	74;"	e	enum:__anon1ca5b3760303	file:
+RunInFullscreen	surf.c	75;"	e	enum:__anon1ca5b3760303	file:
+ScrollBars	surf.c	76;"	e	enum:__anon1ca5b3760303	file:
+SearchEngines	surf.c	147;"	t	typeref:struct:__anon1ca5b3760a08	file:
+ShowIndicators	surf.c	77;"	e	enum:__anon1ca5b3760303	file:
+SiteQuirks	surf.c	78;"	e	enum:__anon1ca5b3760303	file:
+SiteSpecific	surf.c	142;"	t	typeref:struct:__anon1ca5b3760908	file:
+SmoothScrolling	surf.c	79;"	e	enum:__anon1ca5b3760303	file:
+SpellChecking	surf.c	80;"	e	enum:__anon1ca5b3760303	file:
+SpellLanguages	surf.c	81;"	e	enum:__anon1ca5b3760303	file:
+StrictTLS	surf.c	82;"	e	enum:__anon1ca5b3760303	file:
+Style	surf.c	83;"	e	enum:__anon1ca5b3760303	file:
+UriParameters	surf.c	136;"	t	typeref:struct:__anon1ca5b3760808	file:
+WebGL	surf.c	84;"	e	enum:__anon1ca5b3760303	file:
+ZoomLevel	surf.c	85;"	e	enum:__anon1ca5b3760303	file:
+__anon1ca5b3760103	surf.c	40;"	g	file:
+__anon1ca5b3760203	surf.c	42;"	g	file:
+__anon1ca5b3760303	surf.c	53;"	g	file:
+__anon1ca5b376040a	surf.c	89;"	u	file:
+__anon1ca5b3760508	surf.c	95;"	s	file:
+__anon1ca5b3760608	surf.c	116;"	s	file:
+__anon1ca5b3760708	surf.c	123;"	s	file:
+__anon1ca5b3760808	surf.c	132;"	s	file:
+__anon1ca5b3760908	surf.c	138;"	s	file:
+__anon1ca5b3760a08	surf.c	144;"	s	file:
+arg	surf.c	120;"	m	struct:__anon1ca5b3760608	typeref:typename:const Arg	file:
+arg	surf.c	128;"	m	struct:__anon1ca5b3760708	typeref:typename:const Arg	file:
+argv0	surf.c	271;"	v	typeref:typename:char *
+atoms	surf.c	259;"	v	typeref:typename:Atom[]	file:
+bookmarkadd	surf.c	698;"	f	typeref:typename:void
+bookmarkdel	surf.c	717;"	f	typeref:typename:void
+bookmarkgo	surf.c	680;"	f	typeref:typename:void
+bookmarkproplist	surf.c	656;"	f	typeref:typename:const char *
+buildfile	surf.c	461;"	f	typeref:typename:char *
+buildpath	surf.c	519;"	f	typeref:typename:char *
+button	surf.c	126;"	m	struct:__anon1ca5b3760708	typeref:typename:guint	file:
+buttonreleased	surf.c	1487;"	f	typeref:typename:gboolean
+cert	surf.c	106;"	m	struct:Client	typeref:typename:GTlsCertificate *	file:
+cleanup	surf.c	1278;"	f	typeref:typename:void
+clickexternplayer	surf.c	2202;"	f	typeref:typename:void
+clicknavigate	surf.c	2187;"	f	typeref:typename:void
+clicknewwindow	surf.c	2193;"	f	typeref:typename:void
+clients	surf.c	264;"	v	typeref:typename:Client *	file:
+clipboard	surf.c	2050;"	f	typeref:typename:void
+closeview	surf.c	1988;"	f	typeref:typename:void
+config	surf.c	134;"	m	struct:__anon1ca5b3760808	typeref:typename:Parameter[]	file:
+cookiepolicy	surf.c	262;"	v	typeref:typename:int	file:
+cookiepolicy_get	surf.c	887;"	f	typeref:typename:WebKitCookieAcceptPolicy
+cookiepolicy_set	surf.c	901;"	f	typeref:typename:char
+createview	surf.c	1459;"	f	typeref:typename:GtkWidget *
+createwindow	surf.c	1641;"	f	typeref:typename:GtkWidget *
+curconfig	surf.c	268;"	v	typeref:typename:Parameter *	file:
+decidenavigation	surf.c	1851;"	f	typeref:typename:void
+decidenewwindow	surf.c	1880;"	f	typeref:typename:void
+decidepolicy	surf.c	1830;"	f	typeref:typename:gboolean
+decideresource	surf.c	1910;"	f	typeref:typename:void
+destroyclient	surf.c	1259;"	f	typeref:typename:void
+destroywin	surf.c	1994;"	f	typeref:typename:void
+die	surf.c	319;"	f	typeref:typename:void
+download	surf.c	1972;"	f	typeref:typename:void
+downloadstarted	surf.c	1958;"	f	typeref:typename:void
+dpy	surf.c	263;"	v	typeref:typename:Display *	file:
+embed	surf.c	260;"	v	typeref:typename:Window	file:
+errorpage	surf.c	110;"	m	struct:Client	typeref:typename:int	file:
+evalscript	surf.c	1162;"	f	typeref:typename:void
+f	surf.c	91;"	m	union:__anon1ca5b376040a	typeref:typename:float	file:
+failedcert	surf.c	106;"	m	struct:Client	typeref:typename:GTlsCertificate *	file:
+file	surf.c	140;"	m	struct:__anon1ca5b3760908	typeref:typename:char *	file:
+find	surf.c	2161;"	f	typeref:typename:void
+finder	surf.c	104;"	m	struct:Client	typeref:typename:WebKitFindController *	file:
+fullscreen	surf.c	110;"	m	struct:Client	typeref:typename:int	file:
+func	surf.c	119;"	m	struct:__anon1ca5b3760608	typeref:typename:void (*)(Client * c,const Arg * a)	file:
+func	surf.c	127;"	m	struct:__anon1ca5b3760708	typeref:typename:void (*)(Client * c,const Arg * a,WebKitHitTestResult * h)	file:
+gdkkb	surf.c	265;"	v	typeref:typename:GdkDevice *	file:
+getatom	surf.c	817;"	f	typeref:typename:const char *
+getcert	surf.c	1073;"	f	typeref:typename:const char *
+getcurrentuserhomedir	surf.c	497;"	f	typeref:typename:const char *	file:
+getfield	surf.c	736;"	f	typeref:typename:const char *
+getpagestats	surf.c	877;"	f	typeref:typename:void
+getpassword	surf.c	777;"	f	typeref:typename:void
+getstyle	surf.c	1114;"	f	typeref:typename:const char *
+gettogglestats	surf.c	862;"	f	typeref:typename:void
+geturi	surf.c	798;"	f	typeref:typename:const char *
+getuserhomedir	surf.c	486;"	f	typeref:typename:const char *	file:
+getusername	surf.c	767;"	f	typeref:typename:void
+handleplumb	surf.c	1182;"	f	typeref:typename:void
+https	surf.c	110;"	m	struct:Client	typeref:typename:int	file:
+i	surf.c	90;"	m	union:__anon1ca5b376040a	typeref:typename:int	file:
+initwebextensions	surf.c	1445;"	f	typeref:typename:void
+insecure	surf.c	110;"	m	struct:Client	typeref:typename:int	file:
+insecurecontent	surf.c	1952;"	f	typeref:typename:void
+inspector	surf.c	103;"	m	struct:Client	typeref:typename:WebKitWebInspector *	file:
+keyval	surf.c	118;"	m	struct:__anon1ca5b3760608	typeref:typename:guint	file:
+loadchanged	surf.c	1726;"	f	typeref:typename:void
+loadcommitted	surf.c	287;"	v	typeref:typename:ParamName[]	file:
+loadfailedtls	surf.c	1677;"	f	typeref:typename:gboolean
+loadfinished	surf.c	311;"	v	typeref:typename:ParamName[]	file:
+loadtransient	surf.c	273;"	v	typeref:typename:ParamName[]	file:
+loaduri	surf.c	578;"	f	typeref:typename:void
+main	surf.c	2211;"	f	typeref:typename:int
+mask	surf.c	125;"	m	struct:__anon1ca5b3760708	typeref:typename:unsigned int	file:
+mod	surf.c	117;"	m	struct:__anon1ca5b3760608	typeref:typename:guint	file:
+modparams	surf.c	269;"	v	typeref:typename:int[]	file:
+mousepos	surf.c	105;"	m	struct:Client	typeref:typename:WebKitHitTestResult *	file:
+mousetargetchanged	surf.c	1782;"	f	typeref:typename:void
+msgext	surf.c	2079;"	f	typeref:typename:void	file:
+navigate	surf.c	2111;"	f	typeref:typename:void
+needle	surf.c	112;"	m	struct:Client	typeref:typename:const char *	file:
+newclient	surf.c	561;"	f	typeref:typename:Client *
+newview	surf.c	1293;"	f	typeref:typename:WebKitWebView *
+newwindow	surf.c	1189;"	f	typeref:typename:void
+next	surf.c	113;"	m	struct:Client	typeref:struct:Client *	file:
+overtitle	surf.c	111;"	m	struct:Client	typeref:typename:const char *	file:
+pageid	surf.c	109;"	m	struct:Client	typeref:typename:guint64	file:
+pagestats	surf.c	258;"	v	typeref:typename:char[2]	file:
+pasteuri	surf.c	2002;"	f	typeref:typename:void
+permissionrequested	surf.c	1804;"	f	typeref:typename:gboolean
+prefix	surf.c	145;"	m	struct:__anon1ca5b3760a08	typeref:typename:char *	file:
+print	surf.c	2019;"	f	typeref:typename:void
+prio	surf.c	97;"	m	struct:__anon1ca5b3760508	typeref:typename:int	file:
+processx	surf.c	1508;"	f	typeref:typename:GdkFilterReturn
+progress	surf.c	110;"	m	struct:Client	typeref:typename:int	file:
+progresschanged	surf.c	1767;"	f	typeref:typename:void
+re	surf.c	135;"	m	struct:__anon1ca5b3760808	typeref:typename:regex_t	file:
+re	surf.c	141;"	m	struct:__anon1ca5b3760908	typeref:typename:regex_t	file:
+readsock	surf.c	1421;"	f	typeref:typename:gboolean	file:
+regex	surf.c	139;"	m	struct:__anon1ca5b3760908	typeref:typename:char *	file:
+reload	surf.c	2010;"	f	typeref:typename:void
+responsereceived	surf.c	1965;"	f	typeref:typename:void
+runscript	surf.c	1151;"	f	typeref:typename:void
+scrollh	surf.c	2105;"	f	typeref:typename:void
+scrollv	surf.c	2099;"	f	typeref:typename:void
+search	surf.c	620;"	f	typeref:typename:void
+searchurl	surf.c	146;"	m	struct:__anon1ca5b3760a08	typeref:typename:char *	file:
+setatom	surf.c	808;"	f	typeref:typename:void
+setcert	surf.c	1087;"	f	typeref:typename:void
+setparameter	surf.c	945;"	f	typeref:typename:void
+setstyle	surf.c	1131;"	f	typeref:typename:void
+setup	surf.c	338;"	f	typeref:typename:void
+seturiparameters	surf.c	915;"	f	typeref:typename:void
+showcert	surf.c	2026;"	f	typeref:typename:void
+showview	surf.c	1593;"	f	typeref:typename:void
+showxid	surf.c	261;"	v	typeref:typename:int	file:
+sigchld	surf.c	442;"	f	typeref:typename:void
+sighup	surf.c	451;"	f	typeref:typename:void
+spair	surf.c	270;"	v	typeref:typename:int[2]	file:
+spawn	surf.c	1243;"	f	typeref:typename:void
+stop	surf.c	2120;"	f	typeref:typename:void
+stopevent	surf.c	129;"	m	struct:__anon1ca5b3760708	typeref:typename:unsigned int	file:
+stylefile	surf.c	266;"	v	typeref:typename:char *	file:
+target	surf.c	124;"	m	struct:__anon1ca5b3760708	typeref:typename:unsigned int	file:
+targeturi	surf.c	111;"	m	struct:Client	typeref:typename:const char *	file:
+title	surf.c	111;"	m	struct:Client	typeref:typename:const char *	file:
+titlechanged	surf.c	1775;"	f	typeref:typename:void
+tlserr	surf.c	107;"	m	struct:Client	typeref:typename:GTlsCertificateFlags	file:
+toggle	surf.c	2126;"	f	typeref:typename:void
+togglecookiepolicy	surf.c	2143;"	f	typeref:typename:void
+togglefullscreen	surf.c	2133;"	f	typeref:typename:void
+toggleinspector	surf.c	2152;"	f	typeref:typename:void
+togglestats	surf.c	257;"	v	typeref:typename:char[11]	file:
+untildepath	surf.c	539;"	f	typeref:typename:char *
+updatetitle	surf.c	838;"	f	typeref:typename:void
+updatewinid	surf.c	1176;"	f	typeref:typename:void
+uri	surf.c	133;"	m	struct:__anon1ca5b3760808	typeref:typename:const char *	file:
+usage	surf.c	330;"	f	typeref:typename:void
+useragent	surf.c	267;"	v	typeref:typename:const char *	file:
+v	surf.c	92;"	m	union:__anon1ca5b376040a	typeref:typename:const void *	file:
+val	surf.c	96;"	m	struct:__anon1ca5b3760508	typeref:typename:Arg	file:
+view	surf.c	102;"	m	struct:Client	typeref:typename:WebKitWebView *	file:
+webprocessterminated	surf.c	1979;"	f	typeref:typename:void
+win	surf.c	101;"	m	struct:Client	typeref:typename:GtkWidget *	file:
+winevent	surf.c	1553;"	f	typeref:typename:gboolean
+winid	surf.c	256;"	v	typeref:typename:char[64]	file:
+xid	surf.c	108;"	m	struct:Client	typeref:typename:Window	file:
+zoom	surf.c	2064;"	f	typeref:typename:void
